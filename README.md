@@ -4,13 +4,11 @@ Display weather forcast using JSON from openweather API
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for the Unit 14 Learning Activity.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Brightspace assignment](https://my.css.edu/d2l/le/content/16209/viewContent/475299/View?dst=1)
+- [Completed version](https://github.com/tgibbons-css/flutter_weather)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
